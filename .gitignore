@@ -1,0 +1,110 @@
+# Временные файлы
+*.log
+*.obj
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Скомпилированные файлы
+*.exe
+*.dll
+*.lib
+*.out
+*.so
+*.a
+*.lo
+*.la
+*.lai
+*.o
+
+# Резервные файлы
+*.old
+*.orig
+
+# Временные файлы редактора
+*.swo
+*.swp
+*~
+
+# Каталоги сборки
+bin/
+obj/
+build/
+x64/
+x32/
+
+# Каталоги CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Каталоги и файлы Visual Studio
+.vscode/
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+
+# Каталоги и файлы Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# Каталоги и файлы Qt Creator
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# Каталоги и файлы CLion
+.idea/
+cmake-build-*/
+
+# Каталоги и файлы Xcode
+*.xcworkspace
+*.xcproj
+*.xcuserstate
+
+# Каталоги для других IDE и редакторов
+*.directory
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Каталоги для отладчиков и профилировщиков
+.vscode/
+*.launch.json
+*.ncb
+*.sdf
+*.vc.db
+*.vscode/
+*.vs/
+*.VC.opendb
+*.VC.db
+
+# Пакеты
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Папки ОС
+Thumbs.db
+.DS_Store
